@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi I'm Rohith Kumar Chitneni
 
-<!--
-**Rohith2110/Rohith2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Cybersecurity and Machine Learning student at the University of Aberdeen.
 
-Here are some ideas to get you started:
+## Career Goal
+Cybersecurity graduate roles in the UK and Luxembourg, especially in:
+- SOC Analysis
+- Cyber Threat Intelligence
+- Digital Forensics
+- Security Analytics
+- Incident Response
+- AI-driven Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Python, SQL, C
+- Wireshark, Burp Suite, Autopsy, FTK Imager
+- Windows, Linux
+- Network Traffic Analysis
+- Digital Forensics
+- Web Security Testing
+- Threat Intelligence Research
+- Machine Learning and Deep Learning
+
+## Featured Projects
+- XZ Utils Backdoor Analysis
+- Digital Forensics and Incident Response
+- Network Traffic Analysis
+- Web Security CTF Writeups
+- Binary Exploitation Labs/Application Security CTF 
+- Python Security Tools
+- Data Mining with Deep Learning Projects
+- Multi-Agent Systems Team Project
