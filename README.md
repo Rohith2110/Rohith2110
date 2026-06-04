@@ -22,11 +22,16 @@ Cybersecurity graduate roles in the UK and Luxembourg, especially in:
 - Machine Learning and Deep Learning
 
 ## Featured Projects
+### Cybersecurity Projects
 - XZ Utils Backdoor Analysis
 - Digital Forensics and Incident Response
 - Network Traffic Analysis
 - Web Security CTF Writeups
-- Binary Exploitation Labs/Application Security CTF 
-- Python Security Tools
-- Data Mining with Deep Learning Projects
-- Multi-Agent Systems Team Project
+- Binary Exploitation Labs
+
+### Machine Learning Projects
+- Counselling Dialogue NLP Analysis
+- Human Activity Recognition using Deep Learning
+
+### Team Projects
+- Multi-Agent Systems Programming Project
